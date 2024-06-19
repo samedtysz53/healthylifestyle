@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">healthylifestyle</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="Target">Daily Goal:2000</string>
+    <string name="Day">Day:2000</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="privacy_policy_text">
+    Gizlilik Politikası
+Biz, gizliliğinizi korumayı taahhüt ediyoruz. Bu gizlilik politikası, kişisel bilgilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklar. Uygulamamızı kullanarak, bu gizlilik politikasını kabul etmiş olursunuz.
+
+Topladığımız Bilgiler
+Uygulamamızı kullanırken, sizden doğrudan sağladığınız veya otomatik olarak topladığımız bilgiler dahil olmak üzere çeşitli kişisel bilgiler talep edebiliriz. Bu bilgiler şunları içerebilir:
+- Adınız ve soyadınız
+- E-posta adresiniz
+- Telefon numaranız
+- Konum bilgileri
+- Kullanıcı adı ve şifre
+- Uygulama kullanım verileri
+
+Bilgilerin Kullanımı
+Topladığımız bilgileri şu amaçlarla kullanabiliriz:
+- Hizmetlerimizi sunmak ve yönetmek
+- Kullanıcı deneyimini kişiselleştirmek
+- Müşteri hizmetleri ve destek sağlamak
+- Kullanıcılarımızla iletişim kurmak
+- Uygulamamızı ve hizmetlerimizi geliştirmek
+- Hukuki yükümlülüklere uymak
+
+Bilgilerin Paylaşımı
+Kişisel bilgilerinizi üçüncü taraflarla paylaşmayız, ancak aşağıdaki durumlarda paylaşabiliriz:
+- Hizmet sağlayıcılarla: Hizmetlerimizi yürütmemize yardımcı olan güvenilir üçüncü taraflarla çalışabiliriz.
+- Yasal gereklilikler: Hukuki zorunluluklar, mahkeme emirleri veya diğer yasal süreçler nedeniyle bilgilerinizi ifşa edebiliriz.
+- İş transferleri: Şirket birleşmeleri, satışları veya varlık transferleri durumunda bilgilerinizi devredebiliriz.
+
+Bilgilerin Korunması
+Kişisel bilgilerinizi korumak için uygun güvenlik önlemleri alıyoruz. Ancak, internet üzerinden iletilen bilgilerin güvenliğini tam olarak garanti edemeyiz.
+
+Çerezler ve İzleme Teknolojileri
+Uygulamamızı kullanırken, çerezler ve benzeri izleme teknolojilerini kullanabiliriz. Bu teknolojiler, kullanıcı deneyiminizi geliştirmek ve uygulama performansını analiz etmek için kullanılır.
+
+Çocukların Gizliliği
+Uygulamamız, 13 yaşın altındaki çocuklara yönelik değildir. 13 yaşın altındaki çocuklardan bilerek kişisel bilgi toplamıyoruz. Eğer bir ebeveyn veya veli, çocuğunun bize kişisel bilgi sağladığını fark ederse, lütfen bizimle iletişime geçin.
+
+Gizlilik Politikasındaki Değişiklikler
+Gizlilik politikamızı zaman zaman güncelleyebiliriz. Herhangi bir değişiklik yapıldığında, yeni gizlilik politikası bu sayfada yayınlanacaktır. Bu politikayı düzenli olarak gözden geçirmenizi öneririz.
+
+İletişim
+Gizlilik politikamız hakkında sorularınız veya endişeleriniz varsa, lütfen bizimle iletişime geçin:
+E-posta: samed.tuysuz@gmail.com
+
+
+</string>
+
+
+</resources>

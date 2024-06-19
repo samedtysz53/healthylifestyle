@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "412319616496",
+    "project_id": "healthylifestyle-bd216",
+    "storage_bucket": "healthylifestyle-bd216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412319616496:android:6e00e73f2c0066a66a6135",
+        "android_client_info": {
+          "package_name": "com.tuysuz.healthylifestyle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412319616496-66foljb4qi8cbq3id4t0bb3k371dd5jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuysuz.healthylifestyle",
+            "certificate_hash": "c84f41ff85001e606b51138a334ae07f8a8373a5"
+          }
+        },
+        {
+          "client_id": "412319616496-c9kirrcfmv90qertem0jfaqp87jkomlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8L8uXwaF0Ba9crHtF_3lNWxzYmSPL75M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412319616496-c9kirrcfmv90qertem0jfaqp87jkomlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

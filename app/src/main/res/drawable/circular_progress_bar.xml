@@ -1,0 +1,22 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Dış çember (arka plan) -->
+    <item android:id="@android:id/background">
+        <shape android:shape="ring"
+            android:innerRadiusRatio="3"
+            android:thicknessRatio="8"
+            android:useLevel="false">
+            <solid android:color="#C0C0C0" />
+        </shape>
+    </item>
+    <!-- İlerleme çubuğu -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:shape="ring"
+                android:innerRadiusRatio="3"
+                android:thicknessRatio="8"
+                android:useLevel="true">
+                <solid android:color="#B629B5" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>
