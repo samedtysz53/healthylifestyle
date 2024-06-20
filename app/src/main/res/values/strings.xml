@@ -64,6 +64,9 @@ E-posta: samed.tuysuz@gmail.com
 
 </string>
     <string name="app_nameVersion">Version V1.0</string>
+    <string name="Age">Age</string>
+    <string name="size">Size</string>
+    <string name="Weight">Weight</string>
 
 
 </resources>

@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
     SignInButton btSignIn;
     GoogleSignInClient googleSignInClient;
     FirebaseAuth firebaseAuth;
+    Button test;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -51,7 +52,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
+        test=findViewById(R.id.testbtn);
+        test.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(MainActivity.this,Register.class);
+                startActivity(intent);
+            }
+        });
         // Google Sign-In seçeneklerini yapılandır
         GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
                 .requestIdToken("412319616496-c9kirrcfmv90qertem0jfaqp87jkomlq.apps.googleusercontent.com")
