@@ -22,6 +22,14 @@
           }
         },
         {
+          "client_id": "412319616496-u59p773utp8d020lanmbtemir3ctacrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuysuz.healthylifestyle",
+            "certificate_hash": "547ef3cfdefd02fb91d88c57475abb8f04fb6d82"
+          }
+        },
+        {
           "client_id": "412319616496-c9kirrcfmv90qertem0jfaqp87jkomlq.apps.googleusercontent.com",
           "client_type": 3
         }

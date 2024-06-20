@@ -2,8 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
     <!-- Health Connect izinlerini ilan edin -->
-    <uses-permission android:name="android.permission.health.READ_HEART_RATE" />
-    <uses-permission android:name="android.permission.health.WRITE_HEART_RATE" />
     <uses-permission android:name="android.permission.health.READ_STEPS" />
     <uses-permission android:name="android.permission.health.WRITE_STEPS" />
     <uses-permission android:name="android.permission.health.READ_EXERCISE" />
@@ -28,10 +26,10 @@
         android:theme="@style/Theme.Healthylifestyle"
         tools:targetApi="31">
         <activity
-            android:name=".activity_privacy_policy"
+            android:name=".Cardio"
             android:exported="false" />
         <activity
-            android:name=".Cardio"
+            android:name=".activity_privacy_policy"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

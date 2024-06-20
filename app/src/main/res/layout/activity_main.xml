@@ -10,39 +10,47 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
-        android:layout_marginTop="124dp"
+        android:layout_width="212dp"
+        android:layout_height="212dp"
+        android:layout_marginTop="92dp"
         android:scaleType="centerCrop"
-
+        app:layout_constraintBottom_toTopOf="@id/logins"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.806"
         app:srcCompat="@drawable/logo" />
 
     <com.google.android.gms.common.SignInButton
         android:id="@+id/logins"
-        android:layout_width="200dp"
-        android:layout_height="40dp"
-
-
+        android:layout_width="0dp"
+        android:layout_height="42dp"
         android:textColor="@color/white"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/politicy"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@id/imageView" />
 
-    <Button
+    <TextView
         android:id="@+id/politicy"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
         android:text="@string/privacy_policy"
+        android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_nameVersion"
+        android:textColor="#EFE4E4"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@id/politicy"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/logins"
-        app:layout_constraintVertical_bias="0.848" />
+        app:layout_constraintTop_toBottomOf="@id/logins" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

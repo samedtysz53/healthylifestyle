@@ -17,6 +17,7 @@
     <string name="Day">Day:2000</string>
     <string name="privacy_policy">Privacy policy</string>
     <string name="privacy_policy_text">
+
     Gizlilik Politikası
 Biz, gizliliğinizi korumayı taahhüt ediyoruz. Bu gizlilik politikası, kişisel bilgilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklar. Uygulamamızı kullanarak, bu gizlilik politikasını kabul etmiş olursunuz.
 
@@ -62,6 +63,7 @@ E-posta: samed.tuysuz@gmail.com
 
 
 </string>
+    <string name="app_nameVersion">Version V1.0</string>
 
 
 </resources>
